@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Mandiri Test</string>
+    <string name="select_category">Select Category</string>
+    <string name="select_source">Select Source</string>
+    <string name="filter">Filter</string>
+    <string name="q_hint">Article keyword</string>
+    <string name="q_in_title_hint">Article title keyword</string>
+    <string name="sources_hint">Source ids, comma-separated</string>
+    <string name="from_hint">From date</string>
+    <string name="to_hint">To date</string>
+    <string name="language_formatted">Language: %s</string>
+    <string name="submit_filter">Submit Filter</string>
+    <string name="language">Language</string>
+    <string name="ar_country">العربية</string>
+    <string name="de_country">Deutsch</string>
+    <string name="en_country">English</string>
+    <string name="es_country">Español</string>
+    <string name="fr_country">français</string>
+    <string name="he_country">עברית</string>
+    <string name="it_country">Italiano</string>
+    <string name="nl_country">Nederlands</string>
+    <string name="no_country">Norsk</string>
+    <string name="pt_country">Português</string>
+    <string name="ru_country">русский</string>
+    <string name="se_country">Davvisámegiella</string>
+    <string name="zh_country">中文</string>
+    <string name="all">All</string>
+
+    <array name="country_name">
+        <item>All</item>
+        <item>Arabic</item>
+        <item>Austria</item>
+        <item>Australia</item>
+        <item>Belgium</item>
+        <item>Bulgaria</item>
+        <item>Brazil</item>
+        <item>Canada</item>
+        <item>Colombia</item>
+        <item>Cuba</item>
+        <item>Czech Republic</item>
+        <item>Egypt</item>
+        <item>France</item>
+        <item>Greece</item>
+        <item>Hong Kong</item>
+        <item>Indonesia</item>
+        <item>Ireland</item>
+        <item>Israel</item>
+        <item>India</item>
+        <item>Italy</item>
+        <item>Japan</item>
+        <item>Republic of Korea</item>
+    </array>
+    <array name="country_id">
+        <item></item>
+        <item>ar</item>
+        <item>at</item>
+        <item>au</item>
+        <item>be</item>
+        <item>bg</item>
+        <item>br</item>
+        <item>ca</item>
+        <item>co</item>
+        <item>cu</item>
+        <item>cz</item>
+        <item>eg</item>
+        <item>fr</item>
+        <item>gr</item>
+        <item>hk</item>
+        <item>id</item>
+        <item>ie</item>
+        <item>il</item>
+        <item>in</item>
+        <item>it</item>
+        <item>jp</item>
+        <item>kr</item>
+    </array>
+</resources>
